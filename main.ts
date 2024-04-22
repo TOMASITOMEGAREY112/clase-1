@@ -53,4 +53,6 @@ let mySprite2 = sprites.create(img`
 controller.moveSprite(mySprite)
 mySprite2.follow(mySprite)
 scene.setBackgroundColor(3)
-scene.cameraFollowSprite(mySprite2)
+if (true) {
+	
+}
